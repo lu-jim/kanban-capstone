@@ -1,6 +1,6 @@
-# kanban-capstone
+# Recipe board
 
-Kanban capstone is a JavaScript group project employing Kanban board
+Recipe board is a JavaScript group project with the goal to build a web-app that connects to the [Meals API](themealdb.com/api.php) to fetch Japanese recipes and with Likes and Comments support through the [Involvement](themealdb.com/api.php) API.
 
 
 If you like what you see and have a project you need coded, don't hesitate to contact me.
@@ -11,7 +11,7 @@ If you like what you see and have a project you need coded, don't hesitate to co
 
 
 - Major languages: HTML, JavaScript, and CSS,
-- Technologies used: Web services, webpack, Jest for testing, babelrc
+- Technologies used: Web services, Webpack, Jest for testing, Babel, Bootstrap.
 
 
 # Live Demo
